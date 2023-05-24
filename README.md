@@ -1,0 +1,2 @@
+# Image Processing Project
+The code posted in the attachment is from an article titled "Illumination Map Smoothing (IMS): A Convex and Differentiable Mathematical Model to Rapidly Enhance Low-Light Images". This code improves the brightness of dark images.
